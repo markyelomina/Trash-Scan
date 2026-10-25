@@ -100,9 +100,3 @@ Once the UI cell is running:
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](../../issues).
-
----
-
-## 📝 License
-
-Distributed under the MIT License.
