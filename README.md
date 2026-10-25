@@ -60,7 +60,7 @@
 2. **Setup Dataset Directory**:
    Organize your dataset in Google Drive under the following directory structure:
    ```text
-   cs124p project/
+   Project/
    ├── Soda Can/
    ├── Cardboard/
    ├── Plastic Bottle/
